@@ -1,21 +1,18 @@
-# Hi 👋 I'm <Your Name>
+# Hi 👋 I'm Venkata krishna Jayanth Mummalaneni
 
 ### 🚀 About Me
-I'm a Full Stack Developer from <City, Country>. I ❤️ building scalable software & solving problems.
+I'm a Software Engineer at Oracle. I ❤️ building scalable software & solving problems.
 
 ### 🛠 Tech Stack
-**Languages:** Java, Python, JavaScript  
+**Languages:** C++, C, Java, JavaScript , Pl/sql
 **Frontend:** React, Tailwind CSS  
-**Backend:** Node.js, Spring Boot  
-**Databases:** PostgreSQL, MongoDB
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnajayant-h&layout=compact&theme=tokyonight&cache_seconds=1800)
+**Backend:** Node.js, Spring Boot   
+**Databases:** PostgreSQL, MongoDB, Mysql
 
 ---
 
 ### 📫 Contact Me
 
-LinkedIn - https://linkedin.com/in/<your>  
-Twitter - https://twitter.com/<your>
+LinkedIn - https://linkedin.com/in/krishna-jayanth/
+Leetcode - https://leetcode.com/u/pyschic/
+Email - krishnajayanth@gmail.com
