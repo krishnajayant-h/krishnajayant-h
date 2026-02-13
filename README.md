@@ -11,7 +11,7 @@ I'm a Full Stack Developer from <City, Country>. I ❤️ building scalable soft
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnajayant-h&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnajayant-h&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
